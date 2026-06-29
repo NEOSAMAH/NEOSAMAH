@@ -27,7 +27,7 @@ B.Sc. Software Engineering · M.Sc. Computer Engineering (ongoing) · Istanbul G
 
 ---
 
-### [Traffic Violation Detection System](https://github.com/atohasan/traffic-violation-detection)
+### [Traffic Violation Detection System](https://github.com/NEOSAMAH/traffic-violation-detection)
 > Real-time automated traffic violation detection using computer vision and deep learning
 
 | Metric | Result |
